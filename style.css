@@ -23,6 +23,15 @@ min-width: 50em;
 .begronbiru  { background-color:pink;}
 .begronmera  { background-color:purple;}
 
+.begronungu { background-color:red;}
+.begronpink  { background-color:green;}
+.begronracun  { background-color:yellow;}
+
+.begronomak { background-color:#31AAA9;}
+.begronokey  { background-color:salmon;}
+.begronjambu  { background-color:#E5CB90;}
+
+
 div {text-align: center;}
 
 a {color:#578EF5;
