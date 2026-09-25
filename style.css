@@ -10,11 +10,19 @@ p {color:#578EF5;
  padding: 0.6em; 
 margin: auto;
 margin-bottom: 2em;
-text-align: center;
 border: 4px solid black;
 width: 50%;
 min-width: 50em;
 }
+
+.kanan {text-align: right;}
+.kiri {text-align: left;}
+.tengah {text-align: center;}
+
+.begronijo { background-color:blue;}
+.begronbiru  { background-color:pink;}
+.begronmera  { background-color:purple;}
+
 div {text-align: center;}
 
 a {color:#578EF5;
